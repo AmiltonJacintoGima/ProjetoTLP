@@ -6,7 +6,7 @@
 }
 
 body{
-    background-color: #f0f0f0;
+    
     animation: animate 16s ease-in-out infinite;
     background-size: cover;
 }
@@ -80,13 +80,14 @@ body{
 
 nav{
     width: 100%;
-    position: absolute;
+    position: fixed;
     top: 0;
     left: 0;
     padding: 20px 8%;
     display: flex;
     align-items: center;
     justify-content: space-between;
+    
 
 }
 

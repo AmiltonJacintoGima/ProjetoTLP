@@ -48,11 +48,11 @@ nav .logotipo{
  }
 
  .content{
-    text-align: center;
+    text-align: center; 
  }
  .content h1{
     font-size: 150px;
-    color: #fff;
+    color: #ffffff;
     font-weight: 600;
     transition: 0.5s;
  }
